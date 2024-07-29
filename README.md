@@ -1,8 +1,5 @@
 # NLP-learning
 
-## Limu Deep-Learning tutorial
-This is a tutotial about nerual network, CV, NLP. This tutotial is a good combination of Math and codes.
-
 ## Resume project
 - This an NLP project about resume detecting.
 - We are using Tfidf for transformation in model training which is for job recommendation and role classification, and use regex repression for resume parsing and text extraction.
